@@ -1,0 +1,10 @@
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CallDataTakeCare\bin\Debug\CallDataTakeCare.exe.config
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CallDataTakeCare\bin\Debug\CallDataTakeCare.exe
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CallDataTakeCare\bin\Debug\CallDataTakeCare.pdb
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CallDataTakeCare\bin\Debug\DBCheckup.dll
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CallDataTakeCare\bin\Debug\DBCheckup.pdb
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CallDataTakeCare\obj\x86\Debug\CallDataTakeCare.csprojResolveAssemblyReference.cache
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CallDataTakeCare\obj\x86\Debug\CallDataTakeCare.Properties.Resources.resources
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CallDataTakeCare\obj\x86\Debug\CallDataTakeCare.csproj.GenerateResource.Cache
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CallDataTakeCare\obj\x86\Debug\CallDataTakeCare.exe
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CallDataTakeCare\obj\x86\Debug\CallDataTakeCare.pdb

@@ -1,0 +1,7 @@
+E:\newSource_EMR\BHQ_TC2016_2017_0001\UserControlLibrary\bin\Debug\UserControlLibrary.dll
+E:\newSource_EMR\BHQ_TC2016_2017_0001\UserControlLibrary\bin\Debug\UserControlLibrary.pdb
+E:\newSource_EMR\BHQ_TC2016_2017_0001\UserControlLibrary\bin\Debug\GlobalHook.dll
+E:\newSource_EMR\BHQ_TC2016_2017_0001\UserControlLibrary\obj\Debug\UserControlLibrary.Properties.Resources.resources
+E:\newSource_EMR\BHQ_TC2016_2017_0001\UserControlLibrary\obj\Debug\UserControlLibrary.csproj.GenerateResource.Cache
+E:\newSource_EMR\BHQ_TC2016_2017_0001\UserControlLibrary\obj\Debug\UserControlLibrary.dll
+E:\newSource_EMR\BHQ_TC2016_2017_0001\UserControlLibrary\obj\Debug\UserControlLibrary.pdb

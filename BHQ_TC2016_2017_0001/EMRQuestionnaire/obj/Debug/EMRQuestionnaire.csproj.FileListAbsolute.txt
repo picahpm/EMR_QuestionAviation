@@ -1,0 +1,7 @@
+E:\newSource_EMR\BHQ_TC2016_2017_0001\EMRQuestionnaire\bin\EMRQuestionnaire.dll
+E:\newSource_EMR\BHQ_TC2016_2017_0001\EMRQuestionnaire\bin\EMRQuestionnaire.pdb
+E:\newSource_EMR\BHQ_TC2016_2017_0001\EMRQuestionnaire\bin\DBCheckup.dll
+E:\newSource_EMR\BHQ_TC2016_2017_0001\EMRQuestionnaire\bin\DBCheckup.pdb
+E:\newSource_EMR\BHQ_TC2016_2017_0001\EMRQuestionnaire\obj\Debug\EMRQuestionnaire.csprojResolveAssemblyReference.cache
+E:\newSource_EMR\BHQ_TC2016_2017_0001\EMRQuestionnaire\obj\Debug\EMRQuestionnaire.dll
+E:\newSource_EMR\BHQ_TC2016_2017_0001\EMRQuestionnaire\obj\Debug\EMRQuestionnaire.pdb

@@ -1,0 +1,10 @@
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CheckUpToDoList\bin\CheckUpToDoList.dll
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CheckUpToDoList\bin\CheckUpToDoList.pdb
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CheckUpToDoList\bin\AjaxControlToolkit.dll
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CheckUpToDoList\bin\DBCheckup.dll
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CheckUpToDoList\bin\DBToDoList.dll
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CheckUpToDoList\bin\DBCheckup.pdb
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CheckUpToDoList\bin\DBToDoList.pdb
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CheckUpToDoList\obj\Debug\CheckUpToDoList.csprojResolveAssemblyReference.cache
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CheckUpToDoList\obj\Debug\CheckUpToDoList.dll
+E:\newSource_EMR\BHQ_TC2016_2017_0001\CheckUpToDoList\obj\Debug\CheckUpToDoList.pdb
